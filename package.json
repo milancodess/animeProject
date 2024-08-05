@@ -1,0 +1,37 @@
+{
+  "name": "animeProject",
+  "version": "1.0.0",
+  "description": "A package for interacting with MyAnimeList data using Jikan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milancodess/animeProject.git"
+  },
+  "keywords": [
+    "anime",
+    "manga",
+    "characters",
+    "people",
+    "search",
+    "studios",
+    "reviews",
+    "genres",
+    "user",
+    "jikan",
+    "myanimelist",
+    "api"
+  ],
+  "author": "Milan Bhandari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/milancodess/animeProject/issues"
+  },
+  "homepage": "https://github.com/milancodess/animeProject#readme",
+   "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12"
+  },
+}
