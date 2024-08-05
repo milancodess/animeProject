@@ -7,7 +7,7 @@ A Node.js package for interacting with MyAnimeList data using the Jikan API.
 You can install the package via npm:
 
 ```bash
-npm install animeProject
+npm install animeProject | ❌ not published yet
 ```
 
 ## Usage
